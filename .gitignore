@@ -1,0 +1,19 @@
+.idea/*
+*.pyc
+*.m~
+
+# data files
+*.obj
+checkpoints
+datasets
+runs
+*.png
+*.vtk
+*.pkl
+*.step
+*.stp
+*.STEP
+*.pth
+__pycache__/
+middle/
+middle1/
